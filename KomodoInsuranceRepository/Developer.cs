@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace KomodoInsuranceRepository
 {
-    public class Developer
+    public class Developer //POCO
     {
+        public string DevName { get; set; }
+        public int DevID { get; set; }
+        public bool PluralSight { get; set; }
+
+        public Developer() { }
+        public Developer(string devName, int devID, bool pluralSight)
+        {
+            DevName = devName;
+            DevID = devID;
+            PluralSight = pluralSight;
+
+        }
     }
 }

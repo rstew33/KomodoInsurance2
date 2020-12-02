@@ -1,0 +1,10 @@
+C:\ElevenFiftyProjects\DotNetProjects\KomodoInsurance\KomodoInsuranceUI\bin\Debug\KomodoInsuranceUI.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\KomodoInsurance\KomodoInsuranceUI\bin\Debug\KomodoInsuranceUI.exe
+C:\ElevenFiftyProjects\DotNetProjects\KomodoInsurance\KomodoInsuranceUI\bin\Debug\KomodoInsuranceUI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoInsurance\KomodoInsuranceUI\obj\Debug\KomodoInsuranceUI.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoInsurance\KomodoInsuranceUI\obj\Debug\KomodoInsuranceUI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\KomodoInsurance\KomodoInsuranceUI\obj\Debug\KomodoInsuranceUI.exe
+C:\ElevenFiftyProjects\DotNetProjects\KomodoInsurance\KomodoInsuranceUI\obj\Debug\KomodoInsuranceUI.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoInsurance\KomodoInsuranceUI\bin\Debug\KomodoInsuranceRepository.dll
+C:\ElevenFiftyProjects\DotNetProjects\KomodoInsurance\KomodoInsuranceUI\bin\Debug\KomodoInsuranceRepository.pdb
+C:\ElevenFiftyProjects\DotNetProjects\KomodoInsurance\KomodoInsuranceUI\obj\Debug\KomodoInsuranceUI.csproj.CopyComplete
